@@ -14,13 +14,12 @@
       "downloads": 0,
       "version": "1.0.0",
       "updated": 1713800000000,
-      "icon": "icons/apps/calculator.svg",
+      "icon": "icons/apps/org.gnome.Calculator.svg",
       "path": "Calculator.vue",
       "dependencies": []
     }
   ],
   "old": [
-    
     {
       "id": "markdown-editor",
       "name": "Markdown Editor",
