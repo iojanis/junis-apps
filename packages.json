@@ -10,14 +10,17 @@
       "description": "A simple calculator application with basic arithmetic operations.",
       "type": "application",
       "author": "junis",
-      "stars": 85,
-      "downloads": 3240,
-      "version": "1.2.0",
+      "stars": 0,
+      "downloads": 0,
+      "version": "1.0.0",
       "updated": 1713800000000,
       "icon": "icons/apps/calculator.svg",
       "path": "Calculator.vue",
       "dependencies": []
-    },
+    }
+  ],
+  "old": [
+    
     {
       "id": "markdown-editor",
       "name": "Markdown Editor",
