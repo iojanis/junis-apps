@@ -35,19 +35,6 @@
       ]
     },
     {
-      "id": "obsidian",
-      "name": "Obsidian",
-      "description": "Just a joke.",
-      "type": "application",
-      "author": "junis",
-      "stars": 0,
-      "downloads": 0,
-      "version": "1.0.0",
-      "updated": 1713800000000,
-      "path": "Obsidian.vue",
-      "icon": "icons/apps/md.obsidian.Obsidian.svg"
-    },
-    {
       "id": "chess.js",
       "name": "Chess.js",
       "description": "Chess.js library for building chess games.",
