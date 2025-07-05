@@ -29,6 +29,7 @@
       "version": "1.0.0",
       "updated": 1713800000000,
       "path": "Chess.vue",
+      "icon": "icons/apps/Chess.svg",
       "dependencies": [
         { "type": "component", "name": "chess.js", "version": "1.0.0" }
       ]
