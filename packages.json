@@ -17,6 +17,33 @@
       "icon": "icons/apps/org.gnome.Calculator.svg",
       "path": "Calculator.vue",
       "dependencies": []
+    },
+    {
+      "id": "chess",
+      "name": "Chess",
+      "description": "A simple Chess game.",
+      "type": "application",
+      "author": "junis",
+      "stars": 0,
+      "downloads": 0,
+      "version": "1.0.0",
+      "updated": 1713800000000,
+      "path": "Chess.vue",
+      "dependencies": [
+        { "type": "component", "name": "chess.js", "version": "latest" }
+      ]
+    },
+    {
+      "id": "chess.js",
+      "name": "Chess.js",
+      "description": "Chess.js library for building chess games.",
+      "type": "component",
+      "author": "junis",
+      "stars": 0,
+      "downloads": 0,
+      "version": "1.0.0",
+      "updated": 1713800000000,
+      "path": "Chess/chess.js"
     }
   ],
   "old": [
