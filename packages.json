@@ -1,7 +1,7 @@
 {
   "name": "Jun!s Apps Repository",
   "description": "Official repository for Jun!s Desktop applications, components, scripts, and composables",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "maintainer": "iojanis",
   "packages": [
     {
