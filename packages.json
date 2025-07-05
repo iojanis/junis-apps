@@ -30,7 +30,7 @@
       "updated": 1713800000000,
       "path": "Chess.vue",
       "dependencies": [
-        { "type": "component", "name": "chess.js", "version": "latest" }
+        { "type": "component", "name": "chess.js", "version": "1.0.0" }
       ]
     },
     {
