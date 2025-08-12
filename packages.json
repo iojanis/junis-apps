@@ -13,7 +13,7 @@
       "stars": 0,
       "downloads": 0,
       "version": "1.0.1",
-      "updated": 1713800000000,
+      "updated": 1755038835,
       "icon": "icons/apps/org.gnome.Calculator.svg",
       "path": "Calculator.vue",
       "dependencies": []
@@ -27,7 +27,7 @@
       "stars": 0,
       "downloads": 0,
       "version": "1.0.0",
-      "updated": 1713800000000,
+      "updated": 1755038835,
       "path": "Chess.vue",
       "icon": "icons/apps/gnome-chess.svg",
       "dependencies": [
@@ -47,7 +47,7 @@
       "stars": 0,
       "downloads": 0,
       "version": "1.0.0",
-      "updated": 1713800000000,
+      "updated": 1755038835,
       "path": "Chess/chess.js"
     }
   ]
