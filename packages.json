@@ -1,7 +1,7 @@
 {
   "name": "Jun!s Apps Repository",
   "description": "Official repository for Jun!s Desktop applications, components, scripts, and composables",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "maintainer": "iojanis",
   "packages": [
     {
@@ -9,7 +9,7 @@
       "name": "Calculator",
       "description": "A simple calculator application with basic arithmetic operations.",
       "type": "application",
-      "author": "junis",
+      "author": "Jun!s",
       "stars": 0,
       "downloads": 0,
       "version": "1.0.1",
@@ -23,15 +23,14 @@
       "name": "Chess",
       "description": "A simple Chess game.",
       "type": "application",
-      "author": "junis",
+      "author": "Jun!s",
       "stars": 0,
       "downloads": 0,
       "version": "1.0.0",
       "updated": 1713800000000,
       "path": "Chess.vue",
-      "icon": "icons/apps/gnome-chess.svg",
       "dependencies": [
-        { "type": "component", "name": "chess.js", "version": "1.0.0" }
+        { "type": "component", "name": "chess.js", "version": "latest" }
       ]
     },
     {
@@ -39,73 +38,12 @@
       "name": "Chess.js",
       "description": "Chess.js library for building chess games.",
       "type": "component",
-      "author": "junis",
+      "author": "Jun!s",
       "stars": 0,
       "downloads": 0,
       "version": "1.0.0",
       "updated": 1713800000000,
       "path": "Chess/chess.js"
-    }
-  ],
-  "old": [
-    {
-      "id": "markdown-editor",
-      "name": "Markdown Editor",
-      "description": "Edit and preview markdown files with syntax highlighting and live preview.",
-      "type": "application",
-      "author": "junis",
-      "stars": 127,
-      "downloads": 4550,
-      "version": "2.0.1",
-      "updated": 1713000000000,
-      "icon": "icons/apps/markdown.svg",
-      "path": "MarkdownEditor.vue",
-      "dependencies": [
-        { "type": "component", "name": "CodeMirror", "version": "1.0.0" },
-        { "type": "script", "name": "MarkdownParser", "version": "latest" }
-      ]
-    },
-    {
-      "id": "data-table",
-      "name": "Data Table",
-      "description": "A powerful data table component with sorting, filtering, and pagination.",
-      "type": "component",
-      "author": "junisdev",
-      "stars": 142,
-      "downloads": 5320,
-      "version": "2.1.0",
-      "updated": 1714400000000,
-      "path": "DataTable.vue",
-      "dependencies": [
-        { "type": "composable", "name": "useSorting", "version": "latest" },
-        { "type": "composable", "name": "usePagination", "version": "1.0.0" }
-      ]
-    },
-    {
-      "id": "system-info",
-      "name": "System Info",
-      "description": "A script that displays system information like CPU, memory, and storage usage.",
-      "type": "script",
-      "author": "junis",
-      "stars": 29,
-      "downloads": 1450,
-      "version": "1.0.2",
-      "updated": 1711500000000,
-      "path": "systemInfo.js",
-      "dependencies": []
-    },
-    {
-      "id": "use-sorting",
-      "name": "useSorting",
-      "description": "A Vue composable for sorting arrays with various sorting algorithms.",
-      "type": "composable",
-      "author": "junis",
-      "stars": 74,
-      "downloads": 2890,
-      "version": "1.0.0",
-      "updated": 1712600000000,
-      "path": "useSorting.ts",
-      "dependencies": []
     }
   ]
 }

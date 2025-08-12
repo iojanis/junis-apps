@@ -1,6 +1,8 @@
 <!-- @app {"title":"Calculator","icon":"icons/apps/org.gnome.Calculator.svg","width":320,"height":480,"singleWindow":true} -->
 <template>
-    <div class="calculator-app h-full flex flex-col p-4 text-foreground">
+    <div
+        class="calculator-app h-full flex flex-col p-4 text-foreground pointer-events-auto"
+    >
         <!-- Display -->
         <div class="mb-4 p-4 bg-muted/50 rounded-lg shadow">
             <div
