@@ -60,7 +60,8 @@
       "downloads": 0,
       "version": "1.0.0",
       "updated": 1755038835,
-      "path": "HackerNews.vue"
+      "path": "HackerNews.vue",
+      "icon": "icons/apps/hacker-news.svg"
     }
   ]
 }
