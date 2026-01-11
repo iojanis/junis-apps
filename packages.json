@@ -75,6 +75,19 @@
       "updated": 1755038835,
       "path": "ProLayout.vue",
       "icon": "icons/places/folder-dev.svg"
+    },
+    {
+      "id": "Nuklear",
+      "name": "Nuklear",
+      "description": "A basic Web browser. Don't expect to open most websites...",
+      "type": "application",
+      "author": "Jun!s",
+      "stars": 0,
+      "downloads": 0,
+      "version": "1.0.0",
+      "updated": 1755038835,
+      "path": "Nuklear.vue",
+      "icon": "icons/places/Nuklear.svg"
     }
   ]
 }
